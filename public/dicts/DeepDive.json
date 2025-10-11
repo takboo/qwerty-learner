@@ -2,1609 +2,2145 @@
     {
         "name": "standard",
         "trans": [
-            "adj. 标准的；n. 标准，规格"
-        ]
+            "adj. used or accepted as normal or average."
+        ],
+        "usphone": "/ˈstændərd/",
+        "ukphone": "/ˈstændəd/"
     },
     {
         "name": "absolutely",
         "trans": [
-            "adv. 绝对地；完全地"
-        ]
+            "adv. used to show complete agreement."
+        ],
+        "usphone": "/ˌæbsəˈluːtli/",
+        "ukphone": "/ˌæbsəˈluːtli/"
     },
     {
         "name": "fundamental",
         "trans": [
-            "adj. 基本的，根本的；n. 基本原理，基础"
-        ]
+            "adj. forming a necessary base or core; of central importance."
+        ],
+        "usphone": "/ˌfʌndəˈmentl/",
+        "ukphone": "/ˌfʌndəˈmentl/"
     },
     {
         "name": "kind of",
         "trans": [
-            "adv. 有点儿，有几分"
-        ]
+            "phr. to some extent; in a way."
+        ],
+        "usphone": "/ˈkaɪnd əv/",
+        "ukphone": "/ˈkaɪnd əv/"
     },
     {
         "name": "workhorse",
         "trans": [
-            "n. 主力，能干的人或机器"
-        ]
+            "n. a machine or person that does a lot of work dependably."
+        ],
+        "usphone": "/ˈwɜːrkhɔːrs/",
+        "ukphone": "/ˈwɜːkhɔːs/"
     },
     {
         "name": "analyze",
         "trans": [
-            "v. 分析，研究"
-        ]
+            "v. to examine something in detail to understand it."
+        ],
+        "usphone": "/ˈænəlaɪz/",
+        "ukphone": "/ˈænəlaɪz/"
     },
     {
         "name": "mission",
         "trans": [
-            "n. 任务，使命"
-        ]
+            "n. an important goal or purpose."
+        ],
+        "usphone": "/ˈmɪʃn/",
+        "ukphone": "/ˈmɪʃn/"
     },
     {
         "name": "gonna",
         "trans": [
-            "(口语) going to，将要"
-        ]
+            "phr. (informal) going to."
+        ],
+        "usphone": "/ˈɡənə/",
+        "ukphone": "/ˈɡənə/"
     },
     {
         "name": "shortcut",
         "trans": [
-            "n. 捷径，近路"
-        ]
+            "n. a quicker way of doing something."
+        ],
+        "usphone": "/ˈʃɔːrtkʌt/",
+        "ukphone": "/ˈʃɔːtkʌt/"
     },
     {
         "name": "bypass",
         "trans": [
-            "v. 绕过，避开；n. 旁路"
-        ]
+            "v. to avoid or go around something."
+        ],
+        "usphone": "/ˈbaɪpæs/",
+        "ukphone": "/ˈbaɪpɑːs/"
     },
     {
         "name": "dig into",
         "trans": [
-            "v. 深入研究，钻研"
-        ]
+            "phr. to investigate or study something thoroughly."
+        ],
+        "usphone": "/dɪɡ ˈɪntu/",
+        "ukphone": "/dɪɡ ˈɪntu/"
     },
     {
         "name": "philosophy",
         "trans": [
-            "n. 哲学；原理，设计思想"
-        ]
+            "n. a set of ideas that guide behavior or design."
+        ],
+        "usphone": "/fəˈlɑːsəfi/",
+        "ukphone": "/fəˈlɒsəfi/"
     },
     {
         "name": "baked into",
         "trans": [
-            "v. 融入，内置于"
-        ]
+            "phr. to be a fundamental and inseparable part of something."
+        ],
+        "usphone": "/beɪkt ˈɪntu/",
+        "ukphone": "/beɪkt ˈɪntu/"
     },
     {
         "name": "seemingly",
         "trans": [
-            "adv. 表面上，似乎"
-        ]
+            "adv. appearing to be a certain way, but not necessarily so."
+        ],
+        "usphone": "/ˈsiːmɪŋli/",
+        "ukphone": "/ˈsiːmɪŋli/"
     },
     {
         "name": "wanna",
         "trans": [
-            "(口语) want to，想要"
-        ]
+            "phr. (informal) want to."
+        ],
+        "usphone": "/ˈwɑːnə/",
+        "ukphone": "/ˈwɒnə/"
     },
     {
         "name": "uncover",
         "trans": [
-            "v. 揭示，发现"
-        ]
+            "v. to discover or reveal something previously unknown."
+        ],
+        "usphone": "/ʌnˈkʌvər/",
+        "ukphone": "/ʌnˈkʌvə(r)/"
     },
     {
         "name": "masterclass",
         "trans": [
-            "n. 大师课，典范"
-        ]
+            "n. an outstanding example of a particular skill."
+        ],
+        "usphone": "/ˈmæstərklæs/",
+        "ukphone": "/ˈmɑːstəklɑːs/"
     },
     {
         "name": "extensibility",
         "trans": [
-            "n. 可扩展性"
-        ]
+            "n. the quality of being designed to allow for adding new features."
+        ],
+        "usphone": "/ɪkˌstensəˈbɪləti/",
+        "ukphone": "/ɪkˌstensəˈbɪləti/"
     },
     {
         "name": "clarity",
         "trans": [
-            "n. 清晰度，明确性"
-        ]
+            "n. the quality of being easy to understand."
+        ],
+        "usphone": "/ˈklærəti/",
+        "ukphone": "/ˈklærəti/"
     },
     {
         "name": "balances",
         "trans": [
-            "v. 平衡，权衡"
-        ]
+            "v. to keep different elements in equal proportions."
+        ],
+        "usphone": "/ˈbælənsɪz/",
+        "ukphone": "/ˈbælənsɪz/"
     },
     {
         "name": "ease of",
         "trans": [
-            "易于...，...的简易性"
-        ]
+            "phr. the state of being simple and not difficult."
+        ],
+        "usphone": "/iːz əv/",
+        "ukphone": "/iːz əv/"
     },
     {
         "name": "fascinating",
         "trans": [
-            "adj. 迷人的，极有吸引力的"
-        ]
+            "adj. extremely interesting and captivating."
+        ],
+        "usphone": "/ˈfæsɪneɪtɪŋ/",
+        "ukphone": "/ˈfæsɪneɪtɪŋ/"
     },
     {
         "name": "tackles",
         "trans": [
-            "v. 处理，解决"
-        ]
+            "v. to make a determined effort to deal with a difficult problem."
+        ],
+        "usphone": "/ˈtækəlz/",
+        "ukphone": "/ˈtækəlz/"
     },
     {
         "name": "challenge",
         "trans": [
-            "n. 挑战；v. 质疑"
-        ]
+            "n. a difficult task that tests ability and skill."
+        ],
+        "usphone": "/ˈtʃæləndʒ/",
+        "ukphone": "/ˈtʃæləndʒ/"
     },
     {
         "name": "one piece of",
         "trans": [
-            "一块，一件"
-        ]
+            "phr. a single unit or part of something."
+        ],
+        "usphone": "/wʌn piːs əv/",
+        "ukphone": "/wʌn piːs əv/"
     },
     {
         "name": "engine",
         "trans": [
-            "n. 引擎，发动机；核心机制"
-        ]
+            "n. the central, most important part of a system."
+        ],
+        "usphone": "/ˈendʒɪn/",
+        "ukphone": "/ˈendʒɪn/"
     },
     {
         "name": "potentially",
         "trans": [
-            "adv. 潜在地，可能地"
-        ]
+            "adv. possibly or capable of becoming true."
+        ],
+        "usphone": "/pəˈtenʃəli/",
+        "ukphone": "/pəˈtenʃəli/"
     },
     {
-        "name": "Exactly",
+        "name": "exactly",
         "trans": [
-            "adv. 确实如此，正是"
-        ]
+            "adv. used to emphasize the correctness of a statement."
+        ],
+        "usphone": "/ɪɡˈzæktli/",
+        "ukphone": "/ɪɡˈzæktli/"
     },
     {
         "name": "surface level",
         "trans": [
-            "n. 表面层次"
-        ]
+            "n. the most obvious or superficial aspect of something."
+        ],
+        "usphone": "/ˈsɜːrfəs ˈlevl/",
+        "ukphone": "/ˈsɜːfɪs ˈlevl/"
     },
     {
         "name": "actually",
         "trans": [
-            "adv. 实际上，事实上"
-        ]
+            "adv. in fact or reality."
+        ],
+        "usphone": "/ˈæktʃuəli/",
+        "ukphone": "/ˈæktʃuəli/"
     },
     {
         "name": "expect",
         "trans": [
-            "v. 期望，预料"
-        ]
+            "v. to regard something as likely to happen."
+        ],
+        "usphone": "/ɪkˈspekt/",
+        "ukphone": "/ɪkˈspekt/"
     },
     {
-        "name": "Treats",
+        "name": "treats",
         "trans": [
-            "v. 对待，处理"
-        ]
+            "v. to handle or deal with something in a particular way."
+        ],
+        "usphone": "/triːts/",
+        "ukphone": "/triːts/"
     },
     {
         "name": "assign",
         "trans": [
-            "v. 分配，指派"
-        ]
+            "v. to give a value or function to something."
+        ],
+        "usphone": "/əˈsaɪn/",
+        "ukphone": "/əˈsaɪn/"
     },
     {
         "name": "convention",
         "trans": [
-            "n. 惯例，常规"
-        ]
+            "n. a way in which something is usually done."
+        ],
+        "usphone": "/kənˈvenʃn/",
+        "ukphone": "/kənˈvenʃn/"
     },
     {
         "name": "interesting",
         "trans": [
-            "adj. 有趣的"
-        ]
+            "adj. arousing curiosity or holding attention."
+        ],
+        "usphone": "/ˈɪntrəstɪŋ/",
+        "ukphone": "/ˈɪntrəstɪŋ/"
     },
     {
         "name": "odd",
         "trans": [
-            "adj. 奇怪的，古怪的"
-        ]
+            "adj. strange or unusual."
+        ],
+        "usphone": "/ɑːd/",
+        "ukphone": "/ɒd/"
     },
     {
         "name": "restriction",
         "trans": [
-            "n. 限制，约束"
-        ]
+            "n. a rule that limits what you can do."
+        ],
+        "usphone": "/rɪˈstrɪkʃn/",
+        "ukphone": "/rɪˈstrɪkʃn/"
     },
     {
         "name": "weird",
         "trans": [
-            "adj. 奇怪的，怪异的"
-        ]
+            "adj. very strange and unusual."
+        ],
+        "usphone": "/wɪrd/",
+        "ukphone": "/wɪəd/"
     },
     {
         "name": "inconvenience",
         "trans": [
-            "n. 不便，麻烦"
-        ]
+            "n. a minor trouble or difficulty."
+        ],
+        "usphone": "/ˌɪnkənˈviːniəns/",
+        "ukphone": "/ˌɪnkənˈviːniəns/"
     },
     {
         "name": "glance",
         "trans": [
-            "n. 一瞥；v. 扫视"
-        ]
+            "n. a quick or brief look."
+        ],
+        "usphone": "/ɡlæns/",
+        "ukphone": "/ɡlɑːns/"
     },
     {
         "name": "solid",
         "trans": [
-            "adj. 坚实的，可靠的"
-        ]
+            "adj. dependable and well-founded."
+        ],
+        "usphone": "/ˈsɑːlɪd/",
+        "ukphone": "/ˈsɒlɪd/"
     },
     {
         "name": "robust",
         "trans": [
-            "adj. 健壮的，稳固的"
-        ]
+            "adj. strong and healthy; vigorous."
+        ],
+        "usphone": "/roʊˈbʌst/",
+        "ukphone": "/rəʊˈbʌst/"
     },
     {
         "name": "comes down",
         "trans": [
-            "v. 下降；（常与 to 连用）归结为"
-        ]
+            "phr. to be summarized or simplified to a single point (usually with 'to')."
+        ],
+        "usphone": "/kʌmz daʊn/",
+        "ukphone": "/kʌmz daʊn/"
     },
     {
         "name": "avoiding",
         "trans": [
-            "v. 避免，规避"
-        ]
+            "v. keeping away from or preventing from happening."
+        ],
+        "usphone": "/əˈvɔɪdɪŋ/",
+        "ukphone": "/əˈvɔɪdɪŋ/"
     },
     {
         "name": "ambiguity",
         "trans": [
-            "n. 歧义，模棱两可"
-        ]
+            "n. the quality of being open to more than one interpretation."
+        ],
+        "usphone": "/ˌæmbɪˈɡjuːəti/",
+        "ukphone": "/ˌæmbɪˈɡjuːəti/"
     },
     {
-        "name": "Eliminate",
+        "name": "eliminate",
         "trans": [
-            "v. 消除，排除"
-        ]
+            "v. to completely remove or get rid of something."
+        ],
+        "usphone": "/ɪˈlɪmɪneɪt/",
+        "ukphone": "/ɪˈlɪmɪneɪt/"
     },
     {
         "name": "confusion",
         "trans": [
-            "n. 困惑，混淆"
-        ]
+            "n. a lack of understanding; uncertainty."
+        ],
+        "usphone": "/kənˈfjuːʒn/",
+        "ukphone": "/kənˈfjuːʒn/"
     },
     {
         "name": "pops up",
         "trans": [
-            "v. 突然出现"
-        ]
+            "phr. to appear or happen unexpectedly."
+        ],
+        "usphone": "/pɑːps ʌp/",
+        "ukphone": "/pɒps ʌp/"
     },
     {
         "name": "interact",
         "trans": [
-            "v. 互动，交互"
-        ]
+            "v. to communicate or have an effect on each other."
+        ],
+        "usphone": "/ˌɪntərˈækt/",
+        "ukphone": "/ˌɪntərˈækt/"
     },
     {
         "name": "unpredictable",
         "trans": [
-            "adj. 不可预测的"
-        ]
+            "adj. not able to be foreseen or known in advance."
+        ],
+        "usphone": "/ˌʌnprɪˈdɪktəbl/",
+        "ukphone": "/ˌʌnprɪˈdɪktəbl/"
     },
     {
         "name": "mess things up",
         "trans": [
-            "v. 把事情搞砸"
-        ]
+            "phr. to spoil or ruin something."
+        ],
+        "usphone": "/mes θɪŋz ʌp/",
+        "ukphone": "/mes θɪŋz ʌp/"
     },
     {
         "name": "imagine",
         "trans": [
-            "v. 想象"
-        ]
+            "v. to form a mental image or concept of."
+        ],
+        "usphone": "/ɪˈmædʒɪn/",
+        "ukphone": "/ɪˈmædʒɪn/"
     },
     {
         "name": "scenario",
         "trans": [
-            "n. 场景，情形"
-        ]
+            "n. a postulated sequence or development of events."
+        ],
+        "usphone": "/səˈnærioʊ/",
+        "ukphone": "/səˈnɑːriəʊ/"
     },
     {
         "name": "typo",
         "trans": [
-            "n. 打印错误，错别字"
-        ]
+            "n. a mistake made in typed or printed text."
+        ],
+        "usphone": "/ˈtaɪpoʊ/",
+        "ukphone": "/ˈtaɪpəʊ/"
     },
     {
         "name": "wildcard",
         "trans": [
-            "n. 通配符"
-        ]
+            "n. a character that will match any character or sequence of characters."
+        ],
+        "usphone": "/ˈwaɪldkɑːrd/",
+        "ukphone": "/ˈwaɪldkɑːd/"
     },
     {
         "name": "asterisk",
         "trans": [
-            "n. 星号（*）"
-        ]
+            "n. the symbol '*' used to mark text or as a wildcard."
+        ],
+        "usphone": "/ˈæstərɪsk/",
+        "ukphone": "/ˈæstərɪsk/"
     },
     {
         "name": "sitting in that directory",
         "trans": [
-            "位于那个目录中"
-        ]
+            "phr. located or present within that specific folder."
+        ],
+        "usphone": "/ˈsɪtɪŋ ɪn ðæt dɪˈrektəri/",
+        "ukphone": "/ˈsɪtɪŋ ɪn ðæt dɪˈrektəri/"
     },
     {
         "name": "expands",
         "trans": [
-            "v. 展开，扩展"
-        ]
+            "v. to replace a symbol (like a wildcard) with the full data it represents."
+        ],
+        "usphone": "/ɪkˈspændz/",
+        "ukphone": "/ɪkˈspændz/"
     },
     {
-        "name": "Precisely",
+        "name": "precisely",
         "trans": [
-            "adv. 精确地；正是"
-        ]
+            "adv. exactly and accurately."
+        ],
+        "usphone": "/prəˈsaɪsli/",
+        "ukphone": "/prəˈsaɪsli/"
     },
     {
         "name": "process",
         "trans": [
-            "v. 处理，加工"
-        ]
+            "v. to perform a series of operations on data."
+        ],
+        "usphone": "/ˈprɑːses/",
+        "ukphone": "/ˈprəʊses/"
     },
     {
         "name": "literally",
         "trans": [
-            "adv. 字面上地；简直"
-        ]
+            "adv. used for emphasis to mean 'actually' or 'in a strict sense'."
+        ],
+        "usphone": "/ˈlɪtərəli/",
+        "ukphone": "/ˈlɪtərəli/"
     },
     {
         "name": "ambiguous",
         "trans": [
-            "adj. 有歧义的，模棱两可的"
-        ]
+            "adj. having more than one possible meaning."
+        ],
+        "usphone": "/æmˈbɪɡjuəs/",
+        "ukphone": "/æmˈbɪɡjuəs/"
     },
     {
         "name": "involved",
         "trans": [
-            "adj. 相关的；参与的"
-        ]
+            "adj. being part of or connected with something."
+        ],
+        "usphone": "/ɪnˈvɑːlvd/",
+        "ukphone": "/ɪnˈvɒlvd/"
     },
     {
         "name": "completely",
         "trans": [
-            "adv. 完全地，彻底地"
-        ]
+            "adv. totally; in every way."
+        ],
+        "usphone": "/kəmˈpliːtli/",
+        "ukphone": "/kəmˈpliːtli/"
     },
     {
         "name": "guarantee",
         "trans": [
-            "v. 保证，担保；n. 保证"
-        ]
+            "v. to make something certain to happen."
+        ],
+        "usphone": "/ˌɡærənˈtiː/",
+        "ukphone": "/ˌɡærənˈtiː/"
     },
     {
         "name": "certainty",
         "trans": [
-            "n. 确定性"
-        ]
+            "n. the state of being completely sure."
+        ],
+        "usphone": "/ˈsɜːrtnti/",
+        "ukphone": "/ˈsɜːtnti/"
     },
     {
         "name": "designers",
         "trans": [
-            "n. 设计师们"
-        ]
+            "n. people who plan the form and structure of something."
+        ],
+        "usphone": "/dɪˈzaɪnərz/",
+        "ukphone": "/dɪˈzaɪnəz/"
     },
     {
         "name": "implies",
         "trans": [
-            "v. 暗示，意味着"
-        ]
+            "v. to suggest something without stating it directly."
+        ],
+        "usphone": "/ɪmˈplaɪz/",
+        "ukphone": "/ɪmˈplaɪz/"
     },
     {
         "name": "explicitness",
         "trans": [
-            "n. 明确性"
-        ]
+            "n. the quality of being clear and direct."
+        ],
+        "usphone": "/ɪkˈsplɪsɪtnəs/",
+        "ukphone": "/ɪkˈsplɪsɪtnəs/"
     },
     {
         "name": "makes so much sense",
         "trans": [
-            "非常有道理"
-        ]
+            "phr. to be very logical and easy to understand."
+        ],
+        "usphone": "/meɪks soʊ mʌtʃ sens/",
+        "ukphone": "/meɪks səʊ mʌtʃ sens/"
     },
     {
         "name": "quirk",
         "trans": [
-            "n. 怪癖，古怪之处"
-        ]
+            "n. a peculiar aspect of something's behavior."
+        ],
+        "usphone": "/kwɜːrk/",
+        "ukphone": "/kwɜːk/"
     },
     {
         "name": "extreme",
         "trans": [
-            "adj. 极端的"
-        ]
+            "adj. reaching a very high or the highest degree."
+        ],
+        "usphone": "/ɪkˈstriːm/",
+        "ukphone": "/ɪkˈstriːm/"
     },
     {
         "name": "rigor",
         "trans": [
-            "n. 严谨性，严格"
-        ]
+            "n. the quality of being extremely thorough and careful."
+        ],
+        "usphone": "/ˈrɪɡər/",
+        "ukphone": "/ˈrɪɡə(r)/"
     },
     {
         "name": "convenience",
         "trans": [
-            "n. 便利，方便"
-        ]
+            "n. the quality of being easy or suitable for a particular purpose."
+        ],
+        "usphone": "/kənˈviːniəns/",
+        "ukphone": "/kənˈviːniəns/"
     },
     {
-        "name": "Particularly",
+        "name": "particularly",
         "trans": [
-            "adv. 特别地，尤其"
-        ]
+            "adv. especially; more than usual."
+        ],
+        "usphone": "/pərˈtɪkjələrli/",
+        "ukphone": "/pəˈtɪkjələli/"
     },
     {
         "name": "external",
         "trans": [
-            "adj. 外部的"
-        ]
+            "adj. coming from or existing outside a particular thing."
+        ],
+        "usphone": "/ɪkˈstɜːrnl/",
+        "ukphone": "/ɪkˈstɜːnl/"
     },
     {
         "name": "defensive",
         "trans": [
-            "adj. 防御性的"
-        ]
+            "adj. used or intended to protect from harm or attack."
+        ],
+        "usphone": "/dɪˈfensɪv/",
+        "ukphone": "/dɪˈfensɪv/"
     },
     {
         "name": "quirks",
         "trans": [
-            "n. 怪癖，古怪之处 (复数)"
-        ]
+            "n. peculiar aspects of something's behavior (plural)."
+        ],
+        "usphone": "/kwɜːrks/",
+        "ukphone": "/kwɜːks/"
     },
     {
         "name": "internal",
         "trans": [
-            "adj. 内部的"
-        ]
+            "adj. of or situated on the inside."
+        ],
+        "usphone": "/ɪnˈtɜːrnl/",
+        "ukphone": "/ɪnˈtɜːnl/"
     },
     {
         "name": "code structure",
         "trans": [
-            "n. 代码结构"
-        ]
+            "n. the organization and layout of software code."
+        ],
+        "usphone": "/koʊd ˈstrʌktʃər/",
+        "ukphone": "/kəʊd ˈstrʌktʃə(r)/"
     },
     {
         "name": "careful",
         "trans": [
-            "adj. 小心的，谨慎的"
-        ]
+            "adj. done with thought and attention to detail."
+        ],
+        "usphone": "/ˈkerfl/",
+        "ukphone": "/ˈkeəfl/"
     },
     {
         "name": "typical",
         "trans": [
-            "adj. 典型的，有代表性的"
-        ]
+            "adj. having the usual qualities of a particular type."
+        ],
+        "usphone": "/ˈtɪpɪkl/",
+        "ukphone": "/ˈtɪpɪkl/"
     },
     {
         "name": "developer",
         "trans": [
-            "n. 开发者"
-        ]
+            "n. a person who creates computer software."
+        ],
+        "usphone": "/dɪˈveləpər/",
+        "ukphone": "/dɪˈveləpə(r)/"
     },
     {
         "name": "workflow",
         "trans": [
-            "n. 工作流"
-        ]
+            "n. the sequence of steps involved in a process."
+        ],
+        "usphone": "/ˈwɜːrkfloʊ/",
+        "ukphone": "/ˈwɜːkfləʊ/"
     },
     {
         "name": "pretty simple",
         "trans": [
-            "adj. 相当简单"
-        ]
+            "phr. quite easy or uncomplicated."
+        ],
+        "usphone": "/ˈprɪti ˈsɪmpl/",
+        "ukphone": "/ˈprɪti ˈsɪmpl/"
     },
     {
         "name": "experiment",
         "trans": [
-            "n. 实验"
-        ]
+            "n. a test done to learn something or to see if an idea is right."
+        ],
+        "usphone": "/ɪkˈsperɪmənt/",
+        "ukphone": "/ɪkˈsperɪmənt/"
     },
     {
         "name": "minimum viable product",
         "trans": [
-            "n. 最小可行产品 (MVP)"
-        ]
+            "n. a version of a product with just enough features to be usable by early customers."
+        ],
+        "usphone": "/ˈmɪnɪməm ˈvaɪəbl ˈprɑːdʌkt/",
+        "ukphone": "/ˈmɪnɪməm ˈvaɪəbl ˈprɒdʌkt/"
     },
     {
         "name": "probably",
         "trans": [
-            "adv. 很可能，大概"
-        ]
+            "adv. almost certainly; as far as one knows or can tell."
+        ],
+        "usphone": "/ˈprɑːbəbli/",
+        "ukphone": "/ˈprɒbəbli/"
     },
     {
         "name": "hardcode",
         "trans": [
-            "v. 硬编码"
-        ]
+            "v. to embed data directly into the source code of a program."
+        ],
+        "usphone": "/ˈhɑːrdkoʊd/",
+        "ukphone": "/ˈhɑːdkəʊd/"
     },
     {
         "name": "pointer",
         "trans": [
-            "n. 指针"
-        ]
+            "n. a data item that contains the address of another item in memory."
+        ],
+        "usphone": "/ˈpɔɪntər/",
+        "ukphone": "/ˈpɔɪntə(r)/"
     },
     {
         "name": "reasonable",
         "trans": [
-            "adj. 合理的"
-        ]
+            "adj. fair and sensible."
+        ],
+        "usphone": "/ˈriːznəbl/",
+        "ukphone": "/ˈriːznəbl/"
     },
     {
         "name": "hits a brick wall",
         "trans": [
-            "碰壁，遇到无法逾越的障碍"
-        ]
+            "phr. to be unable to make progress because of an obstacle."
+        ],
+        "usphone": "/hɪts ə brɪk wɔːl/",
+        "ukphone": "/hɪts ə brɪk wɔːl/"
     },
     {
         "name": "architecturally",
         "trans": [
-            "adv. 在架构上"
-        ]
+            "adv. relating to the structure and design of something."
+        ],
+        "usphone": "/ˌɑːrkɪˈtektʃərəli/",
+        "ukphone": "/ˌɑːkɪˈtektʃərəli/"
     },
     {
         "name": "instantly",
         "trans": [
-            "adv. 立即，马上"
-        ]
+            "adv. at once; immediately."
+        ],
+        "usphone": "/ˈɪnstəntli/",
+        "ukphone": "/ˈɪnstəntli/"
     },
     {
         "name": "loses",
         "trans": [
-            "v. 失去，丢失"
-        ]
+            "v. to cease to have or retain something."
+        ],
+        "usphone": "/ˈluːzɪz/",
+        "ukphone": "/ˈluːzɪz/"
     },
     {
         "name": "duplicate",
         "trans": [
-            "v. 复制，重复"
-        ]
+            "v. to make an exact copy of something."
+        ],
+        "usphone": "/ˈduːplɪkeɪt/",
+        "ukphone": "/ˈdjuːplɪkeɪt/"
     },
     {
         "name": "explodes",
         "trans": [
-            "v. 爆炸；(数量)激增"
-        ]
+            "v. to increase suddenly and rapidly in size or number."
+        ],
+        "usphone": "/ɪkˈsploʊdz/",
+        "ukphone": "/ɪkˈspləʊdz/"
     },
     {
         "name": "repetitive",
         "trans": [
-            "adj. 重复的"
-        ]
+            "adj. containing or characterized by repetition."
+        ],
+        "usphone": "/rɪˈpetətɪv/",
+        "ukphone": "/rɪˈpetətɪv/"
     },
     {
         "name": "fragile",
         "trans": [
-            "adj. 脆弱的"
-        ]
+            "adj. easily broken or damaged."
+        ],
+        "usphone": "/ˈfrædʒl/",
+        "ukphone": "/ˈfrædʒaɪl/"
     },
     {
-        "name": "Totally",
+        "name": "totally",
         "trans": [
-            "adv. 完全地"
-        ]
+            "adv. completely; absolutely."
+        ],
+        "usphone": "/ˈtoʊtəli/",
+        "ukphone": "/ˈtəʊtəli/"
     },
     {
         "name": "unmaintainable",
         "trans": [
-            "adj. 难以维护的"
-        ]
+            "adj. not able to be kept in good condition."
+        ],
+        "usphone": "/ˌʌnmeɪnˈteɪnəbl/",
+        "ukphone": "/ˌʌnmeɪnˈteɪnəbl/"
     },
     {
         "name": "elegant",
         "trans": [
-            "adj. 优雅的，简洁的"
-        ]
+            "adj. pleasingly clever and simple."
+        ],
+        "usphone": "/ˈelɪɡənt/",
+        "ukphone": "/ˈelɪɡənt/"
     },
     {
         "name": "mechanism",
         "trans": [
-            "n. 机制，机理"
-        ]
+            "n. a system of parts working together."
+        ],
+        "usphone": "/ˈmekənɪzəm/",
+        "ukphone": "/ˈmekənɪzəm/"
     },
     {
         "name": "gracefully",
         "trans": [
-            "adv. 优雅地"
-        ]
+            "adv. in a smooth, elegant, and controlled way."
+        ],
+        "usphone": "/ˈɡreɪsfəli/",
+        "ukphone": "/ˈɡreɪsfəli/"
     },
     {
         "name": "throws",
         "trans": [
-            "v. 抛出，扔出"
-        ]
+            "v. to provide or present something to be dealt with."
+        ],
+        "usphone": "/θroʊz/",
+        "ukphone": "/θrəʊz/"
     },
     {
         "name": "behavior",
         "trans": [
-            "n. 行为，举止"
-        ]
+            "n. the way in which a machine or system works."
+        ],
+        "usphone": "/bɪˈheɪvjər/",
+        "ukphone": "/bɪˈheɪvjə(r)/"
     },
     {
         "name": "classic",
         "trans": [
-            "adj. 经典的；n. 经典"
-        ]
+            "adj. judged over a period of time to be of the highest quality."
+        ],
+        "usphone": "/ˈklæsɪk/",
+        "ukphone": "/ˈklæsɪk/"
     },
     {
         "name": "pattern",
         "trans": [
-            "n. 模式，范式"
-        ]
+            "n. a reusable solution to a commonly occurring problem."
+        ],
+        "usphone": "/ˈpætərn/",
+        "ukphone": "/ˈpætn/"
     },
     {
-        "name": "Decoupling",
+        "name": "decoupling",
         "trans": [
-            "n. 解耦"
-        ]
+            "n. separating systems so that they are independent."
+        ],
+        "usphone": "/diːˈkʌplɪŋ/",
+        "ukphone": "/diːˈkʌplɪŋ/"
     },
     {
         "name": "represents",
         "trans": [
-            "v. 代表，表示"
-        ]
+            "v. to stand for or correspond to."
+        ],
+        "usphone": "/ˌreprɪˈzents/",
+        "ukphone": "/ˌreprɪˈzents/"
     },
     {
         "name": "concrete",
         "trans": [
-            "adj. 具体的，实际的"
-        ]
+            "adj. specific and definite, rather than general."
+        ],
+        "usphone": "/ˈkɑːnkriːt/",
+        "ukphone": "/ˈkɒŋkriːt/"
     },
     {
         "name": "satisfies",
         "trans": [
-            "v. 满足，符合"
-        ]
+            "v. to meet the requirements or conditions of something."
+        ],
+        "usphone": "/ˈsætɪsfaɪz/",
+        "ukphone": "/ˈsætɪsfaɪz/"
     },
     {
         "name": "contract",
         "trans": [
-            "n. 合同，契约"
-        ]
+            "n. an agreement specifying obligations (like an interface)."
+        ],
+        "usphone": "/ˈkɑːntrækt/",
+        "ukphone": "/ˈkɒntrækt/"
     },
     {
         "name": "specification",
         "trans": [
-            "n. 规范，规格"
-        ]
+            "n. a detailed description of the design and materials."
+        ],
+        "usphone": "/ˌspesɪfɪˈkeɪʃn/",
+        "ukphone": "/ˌspesɪfɪˈkeɪʃn/"
     },
     {
         "name": "provide",
         "trans": [
-            "v. 提供"
-        ]
+            "v. to make available for use; supply."
+        ],
+        "usphone": "/prəˈvaɪd/",
+        "ukphone": "/prəˈvaɪd/"
     },
     {
         "name": "essential",
         "trans": [
-            "adj. 必要的，本质的"
-        ]
+            "adj. absolutely necessary; extremely important."
+        ],
+        "usphone": "/ɪˈsenʃl/",
+        "ukphone": "/ɪˈsenʃl/"
     },
     {
         "name": "correctly",
         "trans": [
-            "adv. 正确地"
-        ]
+            "adv. in a way that is accurate or true."
+        ],
+        "usphone": "/kəˈrektli/",
+        "ukphone": "/kəˈrektli/"
     },
     {
         "name": "convert",
         "trans": [
-            "v. 转换，转变"
-        ]
+            "v. to change the form or character of something."
+        ],
+        "usphone": "/kənˈvɜːrt/",
+        "ukphone": "/kənˈvɜːt/"
     },
     {
         "name": "turn that string into",
         "trans": [
-            "把那个字符串变成..."
-        ]
+            "phr. to transform a piece of text into another form."
+        ],
+        "usphone": "/tɜːrn ðæt strɪŋ ˈɪntu/",
+        "ukphone": "/tɜːn ðæt strɪŋ ˈɪntu/"
     },
     {
-        "name": "Mostly",
+        "name": "mostly",
         "trans": [
-            "adv. 主要地，大部分"
-        ]
+            "adv. mainly; for the most part."
+        ],
+        "usphone": "/ˈmoʊstli/",
+        "ukphone": "/ˈməʊstli/"
     },
     {
         "name": "gets way simpler",
         "trans": [
-            "变得简单得多"
-        ]
+            "phr. becomes much less complicated."
+        ],
+        "usphone": "/ɡets weɪ ˈsɪmplər/",
+        "ukphone": "/ɡets weɪ ˈsɪmplə(r)/"
     },
     {
-        "name": "Massively",
+        "name": "massively",
         "trans": [
-            "adv. 大量地，极大地"
-        ]
+            "adv. on a large scale; extremely."
+        ],
+        "usphone": "/ˈmæsɪvli/",
+        "ukphone": "/ˈmæsɪvli/"
     },
     {
         "name": "associated",
         "trans": [
-            "adj. 相关的，关联的"
-        ]
+            "adj. connected with something else."
+        ],
+        "usphone": "/əˈsoʊʃieɪtɪd/",
+        "ukphone": "/əˈsəʊʃieɪtɪd/"
     },
     {
         "name": "delegates",
         "trans": [
-            "v. 委托，授权"
-        ]
+            "v. to entrust a task or responsibility to another."
+        ],
+        "usphone": "/ˈdeləɡeɪts/",
+        "ukphone": "/ˈdelɪɡeɪts/"
     },
     {
         "name": "conversion",
         "trans": [
-            "n. 转换"
-        ]
+            "n. the process of changing something from one form to another."
+        ],
+        "usphone": "/kənˈvɜːrʒn/",
+        "ukphone": "/kənˈvɜːʃn/"
     },
     {
         "name": "implementation",
         "trans": [
-            "n. 实现，执行"
-        ]
+            "n. the process of putting a decision or plan into effect."
+        ],
+        "usphone": "/ˌɪmplɪmenˈteɪʃn/",
+        "ukphone": "/ˌɪmplɪmenˈteɪʃn/"
     },
     {
         "name": "generic",
         "trans": [
-            "adj. 通用的，泛型的"
-        ]
+            "adj. not specific; relating to a whole group or class."
+        ],
+        "usphone": "/dʒəˈnerɪk/",
+        "ukphone": "/dʒəˈnerɪk/"
     },
     {
         "name": "framework",
         "trans": [
-            "n. 框架"
-        ]
+            "n. a basic structure underlying a system."
+        ],
+        "usphone": "/ˈfreɪmwɜːrk/",
+        "ukphone": "/ˈfreɪmwɜːk/"
     },
     {
         "name": "decoupled",
         "trans": [
-            "adj. 解耦的"
-        ]
+            "adj. separated from something else so they can exist independently."
+        ],
+        "usphone": "/diːˈkʌpld/",
+        "ukphone": "/diːˈkʌpld/"
     },
     {
         "name": "regular",
         "trans": [
-            "adj. 常规的，普通的"
-        ]
+            "adj. normal or ordinary."
+        ],
+        "usphone": "/ˈreɡjələr/",
+        "ukphone": "/ˈreɡjələ(r)/"
     },
     {
         "name": "variable",
         "trans": [
-            "n. 变量"
-        ]
+            "n. a data item whose value can change during program execution."
+        ],
+        "usphone": "/ˈveriəbl/",
+        "ukphone": "/ˈveəriəbl/"
     },
     {
         "name": "automatically",
         "trans": [
-            "adv. 自动地"
-        ]
+            "adv. done without conscious thought or intention."
+        ],
+        "usphone": "/ˌɔːtəˈmætɪkli/",
+        "ukphone": "/ˌɔːtəˈmætɪkli/"
     },
     {
         "name": "satisfy",
         "trans": [
-            "v. 满足，符合"
-        ]
+            "v. to meet the requirements or conditions of."
+        ],
+        "usphone": "/ˈsætɪsfaɪ/",
+        "ukphone": "/ˈsætɪsfaɪ/"
     },
     {
         "name": "bridge that gap",
         "trans": [
-            "弥合差距，填补鸿沟"
-        ]
+            "phr. to connect two things or reduce the difference between them."
+        ],
+        "usphone": "/brɪdʒ ðæt ɡæp/",
+        "ukphone": "/brɪdʒ ðæt ɡæp/"
     },
     {
         "name": "clever",
         "trans": [
-            "adj. 聪明的，巧妙的"
-        ]
+            "adj. quick to understand and learn; showing skill."
+        ],
+        "usphone": "/ˈklevər/",
+        "ukphone": "/ˈklevə(r)/"
     },
     {
         "name": "idiom",
         "trans": [
-            "n. 习语；（编程）惯用法"
-        ]
+            "n. a distinctive, often non-literal expression or a common convention."
+        ],
+        "usphone": "/ˈɪdiəm/",
+        "ukphone": "/ˈɪdiəm/"
     },
     {
         "name": "fulfill",
         "trans": [
-            "v. 履行，实现，满足"
-        ]
+            "v. to meet a requirement or condition."
+        ],
+        "usphone": "/fʊlˈfɪl/",
+        "ukphone": "/fʊlˈfɪl/"
     },
     {
         "name": "wrapper",
         "trans": [
-            "n. 包装器，封装"
-        ]
+            "n. something that is put around something else, often to provide new functionality."
+        ],
+        "usphone": "/ˈræpər/",
+        "ukphone": "/ˈræpə(r)/"
     },
     {
         "name": "might be",
         "trans": [
-            "可能是"
-        ]
+            "phr. used to express possibility."
+        ],
+        "usphone": "/maɪt bi/",
+        "ukphone": "/maɪt bi/"
     },
     {
         "name": "required",
         "trans": [
-            "adj. 必需的，要求的"
-        ]
+            "adj. necessary according to rules or for a purpose."
+        ],
+        "usphone": "/rɪˈkwaɪərd/",
+        "ukphone": "/rɪˈkwaɪəd/"
     },
     {
         "name": "helper",
         "trans": [
-            "n. 辅助程序；助手"
-        ]
+            "n. something that assists in performing a task."
+        ],
+        "usphone": "/ˈhelpər/",
+        "ukphone": "/ˈhelpə(r)/"
     },
     {
         "name": "reinterprets",
         "trans": [
-            "v. 重新解释"
-        ]
+            "v. to understand or explain something in a new way."
+        ],
+        "usphone": "/ˌriːɪnˈtɜːrprɪts/",
+        "ukphone": "/ˌriːɪnˈtɜːprɪts/"
     },
     {
         "name": "memory layout",
         "trans": [
-            "n. 内存布局"
-        ]
+            "n. the arrangement of data in computer memory."
+        ],
+        "usphone": "/ˈmeməri ˈleɪaʊt/",
+        "ukphone": "/ˈmeməri ˈleɪaʊt/"
     },
     {
         "name": "guaranteed",
         "trans": [
-            "adj. 有保证的"
-        ]
+            "adj. certain to be or happen."
+        ],
+        "usphone": "/ˌɡærənˈtiːd/",
+        "ukphone": "/ˌɡærənˈtiːd/"
     },
     {
         "name": "compatible",
         "trans": [
-            "adj. 兼容的"
-        ]
+            "adj. able to exist or work together without conflict."
+        ],
+        "usphone": "/kəmˈpætəbl/",
+        "ukphone": "/kəmˈpætəbl/"
     },
     {
         "name": "occupy",
         "trans": [
-            "v. 占据，占用"
-        ]
+            "v. to fill or take up a space."
+        ],
+        "usphone": "/ˈɑːkjupaɪ/",
+        "ukphone": "/ˈɒkjupaɪ/"
     },
     {
         "name": "beginning",
         "trans": [
-            "n. 开始，开端"
-        ]
+            "n. the first part or point of something."
+        ],
+        "usphone": "/bɪˈɡɪnɪŋ/",
+        "ukphone": "/bɪˈɡɪnɪŋ/"
     },
     {
         "name": "essentially",
         "trans": [
-            "adv. 本质上，基本上"
-        ]
+            "adv. used to emphasize the basic nature of something."
+        ],
+        "usphone": "/ɪˈsenʃəli/",
+        "ukphone": "/ɪˈsenʃəli/"
     },
     {
         "name": "allocated",
         "trans": [
-            "v. 分配"
-        ]
+            "v. to have set apart memory for a specific purpose."
+        ],
+        "usphone": "/ˈæləkeɪtɪd/",
+        "ukphone": "/ˈæləkeɪtɪd/"
     },
     {
         "name": "lens",
         "trans": [
-            "n. 镜头；视角"
-        ]
+            "n. a particular way of viewing or understanding something."
+        ],
+        "usphone": "/lenz/",
+        "ukphone": "/lenz/"
     },
     {
         "name": "directly",
         "trans": [
-            "adv. 直接地"
-        ]
+            "adv. without any intermediate stages."
+        ],
+        "usphone": "/dəˈrektli/",
+        "ukphone": "/daɪˈrektli/"
     },
     {
         "name": "original",
         "trans": [
-            "adj. 原始的，最初的"
-        ]
+            "adj. present or existing from the beginning; the first."
+        ],
+        "usphone": "/əˈrɪdʒənl/",
+        "ukphone": "/əˈrɪdʒənl/"
     },
     {
         "name": "operates",
         "trans": [
-            "v. 操作，运行"
-        ]
+            "v. to function or work in a particular way."
+        ],
+        "usphone": "/ˈɑːpəreɪts/",
+        "ukphone": "/ˈɒpəreɪts/"
     },
     {
         "name": "zero cost abstraction",
         "trans": [
-            "n. 零成本抽象"
-        ]
+            "n. an abstraction that has no runtime performance penalty."
+        ],
+        "usphone": "/ˈzɪroʊ kɔːst æbˈstrækʃn/",
+        "ukphone": "/ˈzɪərəʊ kɒst æbˈstrækʃn/"
     },
     {
         "name": "performance",
         "trans": [
-            "n. 性能"
-        ]
+            "n. the speed and efficiency with which a computer system operates."
+        ],
+        "usphone": "/pərˈfɔːrməns/",
+        "ukphone": "/pəˈfɔːməns/"
     },
     {
         "name": "neat",
         "trans": [
-            "adj. 整洁的；巧妙的，极好的"
-        ]
+            "adj. clever and effective."
+        ],
+        "usphone": "/niːt/",
+        "ukphone": "/niːt/"
     },
     {
         "name": "familiar",
         "trans": [
-            "adj. 熟悉的"
-        ]
+            "adj. well known from long or close association."
+        ],
+        "usphone": "/fəˈmɪliər/",
+        "ukphone": "/fəˈmɪliə(r)/"
     },
     {
         "name": "gets the job done perfectly",
         "trans": [
-            "完美地完成任务"
-        ]
+            "phr. to complete a task successfully and without any flaws."
+        ],
+        "usphone": "/ɡets ðə dʒɑːb dʌn ˈpɜːrfɪktli/",
+        "ukphone": "/ɡets ðə dʒɒb dʌn ˈpɜːfɪktli/"
     },
     {
-        "name": "Extensible",
+        "name": "extensible",
         "trans": [
-            "adj. 可扩展的"
-        ]
+            "adj. able to be extended or expanded."
+        ],
+        "usphone": "/ɪkˈstensəbl/",
+        "ukphone": "/ɪkˈstensəbl/"
     },
     {
         "name": "efficient",
         "trans": [
-            "adj. 高效的"
-        ]
+            "adj. achieving maximum productivity with minimum wasted effort."
+        ],
+        "usphone": "/ɪˈfɪʃnt/",
+        "ukphone": "/ɪˈfɪʃnt/"
     },
     {
         "name": "user friendly",
         "trans": [
-            "adj. 用户友好的"
-        ]
+            "adj. easy for people to use or understand."
+        ],
+        "usphone": "/ˈjuːzər ˈfrendli/",
+        "ukphone": "/ˈjuːzə ˈfrendli/"
     },
     {
         "name": "circle back",
         "trans": [
-            "v. 回过头来谈，重新讨论"
-        ]
+            "phr. to return to a topic or issue later."
+        ],
+        "usphone": "/ˈsɜːrkl bæk/",
+        "ukphone": "/ˈsɜːkl bæk/"
     },
     {
         "name": "special",
         "trans": [
-            "adj. 特殊的"
-        ]
+            "adj. different from what is usual."
+        ],
+        "usphone": "/ˈspeʃl/",
+        "ukphone": "/ˈspeʃl/"
     },
     {
         "name": "outlier",
         "trans": [
-            "n. 异常值，局外人"
-        ]
+            "n. a person or thing situated away or detached from the main body."
+        ],
+        "usphone": "/ˈaʊtlaɪər/",
+        "ukphone": "/ˈaʊtlaɪə(r)/"
     },
     {
         "name": "universal",
         "trans": [
-            "adj. 通用的，普遍的"
-        ]
+            "adj. relating to or applicable to all cases."
+        ],
+        "usphone": "/ˌjuːnɪˈvɜːrsl/",
+        "ukphone": "/ˌjuːnɪˈvɜːsl/"
     },
     {
         "name": "implicit",
         "trans": [
-            "adj. 隐式的，含蓄的"
-        ]
+            "adj. suggested though not directly expressed."
+        ],
+        "usphone": "/ɪmˈplɪsɪt/",
+        "ukphone": "/ɪmˈplɪsɪt/"
     },
     {
         "name": "ruins",
         "trans": [
-            "v. 破坏，毁掉"
-        ]
+            "v. to spoil or destroy something."
+        ],
+        "usphone": "/ˈruːɪnz/",
+        "ukphone": "/ˈruːɪnz/"
     },
     {
         "name": "approach",
         "trans": [
-            "n. 方法，途径"
-        ]
+            "n. a way of dealing with something."
+        ],
+        "usphone": "/əˈproʊtʃ/",
+        "ukphone": "/əˈprəʊtʃ/"
     },
     {
         "name": "clutter",
         "trans": [
-            "v. 使凌乱；n. 杂乱"
-        ]
+            "v. to fill or cover with an untidy collection of things."
+        ],
+        "usphone": "/ˈklʌtər/",
+        "ukphone": "/ˈklʌtə(r)/"
     },
     {
         "name": "powerful",
         "trans": [
-            "adj. 强大的，有力的"
-        ]
+            "adj. having great power, effect, or influence."
+        ],
+        "usphone": "/ˈpaʊərfl/",
+        "ukphone": "/ˈpaʊəfl/"
     },
     {
         "name": "feature",
         "trans": [
-            "n. 特性，功能"
-        ]
+            "n. a distinctive attribute or aspect of something."
+        ],
+        "usphone": "/ˈfiːtʃər/",
+        "ukphone": "/ˈfiːtʃə(r)/"
     },
     {
         "name": "embedding",
         "trans": [
-            "n. 嵌入"
-        ]
+            "n. the process of including one thing within another."
+        ],
+        "usphone": "/ɪmˈbedɪŋ/",
+        "ukphone": "/ɪmˈbedɪŋ/"
     },
     {
         "name": "critically",
         "trans": [
-            "adv. 关键地；批判性地"
-        ]
+            "adv. in a way that is vitally important."
+        ],
+        "usphone": "/ˈkrɪtɪkli/",
+        "ukphone": "/ˈkrɪtɪkli/"
     },
     {
         "name": "signal",
         "trans": [
-            "n. 信号；v. 发信号"
-        ]
+            "n. an indicator or sign of a particular state."
+        ],
+        "usphone": "/ˈsɪɡnəl/",
+        "ukphone": "/ˈsɪɡnəl/"
     },
     {
         "name": "marker",
         "trans": [
-            "n. 标记，记号"
-        ]
+            "n. an object used to indicate a position or identity."
+        ],
+        "usphone": "/ˈmɑːrkər/",
+        "ukphone": "/ˈmɑːkə(r)/"
     },
     {
         "name": "identity",
         "trans": [
-            "n. 身份，特性"
-        ]
+            "n. the fact of being who or what a person or thing is."
+        ],
+        "usphone": "/aɪˈdentəti/",
+        "ukphone": "/aɪˈdentəti/"
     },
     {
         "name": "performs",
         "trans": [
-            "v. 执行"
-        ]
+            "v. to carry out or execute a task."
+        ],
+        "usphone": "/pərˈfɔːrmz/",
+        "ukphone": "/pəˈfɔːmz/"
     },
     {
         "name": "type assertion",
         "trans": [
-            "n. 类型断言"
-        ]
+            "n. a programming mechanism to check an interface value's underlying concrete type."
+        ],
+        "usphone": "/taɪp əˈsɜːrʃn/",
+        "ukphone": "/taɪp əˈsɜːʃn/"
     },
     {
         "name": "succeeds",
         "trans": [
-            "v. 成功"
-        ]
+            "v. to achieve the desired aim or result."
+        ],
+        "usphone": "/səkˈsiːdz/",
+        "ukphone": "/səkˈsiːdz/"
     },
     {
         "name": "contained",
         "trans": [
-            "adj. 被包含的；受控的"
-        ]
+            "adj. kept within certain limits; controlled."
+        ],
+        "usphone": "/kənˈteɪnd/",
+        "ukphone": "/kənˈteɪnd/"
     },
     {
         "name": "invoked",
         "trans": [
-            "v. 被调用，被援引"
-        ]
+            "v. to call on or put into effect."
+        ],
+        "usphone": "/ɪnˈvoʊkt/",
+        "ukphone": "/ɪnˈvəʊkt/"
     },
     {
         "name": "necessary",
         "trans": [
-            "adj. 必要的"
-        ]
+            "adj. required to be done; essential."
+        ],
+        "usphone": "/ˈnesəseri/",
+        "ukphone": "/ˈnesəsəri/"
     },
     {
         "name": "signaled by",
         "trans": [
-            "由...发信号，由...表示"
-        ]
+            "phr. indicated or shown by something."
+        ],
+        "usphone": "/ˈsɪɡnəld baɪ/",
+        "ukphone": "/ˈsɪɡnəld baɪ/"
     },
     {
         "name": "optional",
         "trans": [
-            "adj. 可选的"
-        ]
+            "adj. available to be chosen but not obligatory."
+        ],
+        "usphone": "/ˈɑːpʃənl/",
+        "ukphone": "/ˈɒpʃənl/"
     },
     {
         "name": "idiomatic",
         "trans": [
-            "adj. 符合语言习惯的；惯用的"
-        ]
+            "adj. using expressions that are natural to a native speaker or system."
+        ],
+        "usphone": "/ˌɪdiəˈmætɪk/",
+        "ukphone": "/ˌɪdiəˈmætɪk/"
     },
     {
         "name": "trade off",
         "trans": [
-            "n. 权衡，取舍"
-        ]
+            "n. a balance achieved between two desirable but incompatible features."
+        ],
+        "usphone": "/ˈtreɪd ɔːf/",
+        "ukphone": "/ˈtreɪd ɒf/"
     },
     {
         "name": "extra",
         "trans": [
-            "adj. 额外的"
-        ]
+            "adj. added to an existing or usual amount or number."
+        ],
+        "usphone": "/ˈekstrə/",
+        "ukphone": "/ˈekstrə/"
     },
     {
         "name": "remains",
         "trans": [
-            "v. 保持，仍然是"
-        ]
+            "v. to continue to exist in the same state."
+        ],
+        "usphone": "/rɪˈmeɪnz/",
+        "ukphone": "/rɪˈmeɪnz/"
     },
     {
         "name": "general",
         "trans": [
-            "adj. 通用的，一般的"
-        ]
+            "adj. affecting or concerning all or most parts of something."
+        ],
+        "usphone": "/ˈdʒenərəl/",
+        "ukphone": "/ˈdʒenrəl/"
     },
     {
         "name": "plus",
         "trans": [
-            "prep. 加上"
-        ]
+            "prep. with the addition of."
+        ],
+        "usphone": "/plʌs/",
+        "ukphone": "/plʌs/"
     },
     {
         "name": "super common",
         "trans": [
-            "非常普遍"
-        ]
+            "phr. very frequently occurring."
+        ],
+        "usphone": "/ˈsuːpər ˈkɑːmən/",
+        "ukphone": "/ˈsuːpə ˈkɒmən/"
     },
     {
         "name": "channels",
         "trans": [
-            "n. 渠道，通道"
-        ]
+            "n. methods or routes for communication or access."
+        ],
+        "usphone": "/ˈtʃænlz/",
+        "ukphone": "/ˈtʃænlz/"
     },
     {
         "name": "maintain",
         "trans": [
-            "v. 维护，维持"
-        ]
+            "v. to cause or enable a condition to continue."
+        ],
+        "usphone": "/meɪnˈteɪn/",
+        "ukphone": "/meɪnˈteɪn/"
     },
     {
         "name": "exceptions",
         "trans": [
-            "n. 例外"
-        ]
+            "n. cases that do not conform to a general rule."
+        ],
+        "usphone": "/ɪkˈsepʃnz/",
+        "ukphone": "/ɪkˈsepʃnz/"
     },
     {
-        "name": "Composition",
+        "name": "composition",
         "trans": [
-            "n. 组合，构成"
-        ]
+            "n. the act of combining parts to form a whole."
+        ],
+        "usphone": "/ˌkɑːmpəˈzɪʃn/",
+        "ukphone": "/ˌkɒmpəˈzɪʃn/"
     },
     {
         "name": "inheritance",
         "trans": [
-            "n. 继承"
-        ]
+            "n. a mechanism where one class acquires the property of another class."
+        ],
+        "usphone": "/ɪnˈherɪtəns/",
+        "ukphone": "/ɪnˈherɪtəns/"
     },
     {
         "name": "perspective",
         "trans": [
-            "n. 视角，观点"
-        ]
+            "n. a particular point of view."
+        ],
+        "usphone": "/pərˈspektɪv/",
+        "ukphone": "/pəˈspektɪv/"
     },
     {
         "name": "user experience",
         "trans": [
-            "n. 用户体验"
-        ]
+            "n. the overall experience of a person using a product or service."
+        ],
+        "usphone": "/ˈjuːzər ɪkˈspɪriəns/",
+        "ukphone": "/ˈjuːzə ɪkˈspɪəriəns/"
     },
     {
         "name": "usually",
         "trans": [
-            "adv. 通常"
-        ]
+            "adv. under normal conditions; generally."
+        ],
+        "usphone": "/ˈjuːʒuəli/",
+        "ukphone": "/ˈjuːʒuəli/"
     },
     {
         "name": "dissecting",
         "trans": [
-            "v. 剖析，仔细分析"
-        ]
+            "v. analyzing something in minute detail."
+        ],
+        "usphone": "/daɪˈsektɪŋ/",
+        "ukphone": "/daɪˈsektɪŋ/"
     },
     {
         "name": "hiding",
         "trans": [
-            "v. 隐藏"
-        ]
+            "v. being out of sight or concealed."
+        ],
+        "usphone": "/ˈhaɪdɪŋ/",
+        "ukphone": "/ˈhaɪdɪŋ/"
     },
     {
         "name": "singleton",
         "trans": [
-            "n. 单例模式，单例"
-        ]
+            "n. a design pattern that restricts the instantiation of a class to one object."
+        ],
+        "usphone": "/ˈsɪŋɡltən/",
+        "ukphone": "/ˈsɪŋɡltən/"
     },
     {
         "name": "incredibly",
         "trans": [
-            "adv. 难以置信地，非常"
-        ]
+            "adv. to a very great degree; extremely."
+        ],
+        "usphone": "/ɪnˈkredəbli/",
+        "ukphone": "/ɪnˈkredəbli/"
     },
     {
         "name": "thin",
         "trans": [
-            "adj. 薄的；简单的"
-        ]
+            "adj. having little substance or complexity; simple."
+        ],
+        "usphone": "/θɪn/",
+        "ukphone": "/θɪn/"
     },
     {
         "name": "globally",
         "trans": [
-            "adv. 全局地"
-        ]
+            "adv. throughout a whole program or system."
+        ],
+        "usphone": "/ˈɡloʊbəli/",
+        "ukphone": "/ˈɡləʊbəli/"
     },
     {
         "name": "layering",
         "trans": [
-            "n. 分层"
-        ]
+            "n. the arrangement of something in layers or levels."
+        ],
+        "usphone": "/ˈleɪərɪŋ/",
+        "ukphone": "/ˈleɪərɪŋ/"
     },
     {
         "name": "maximum",
         "trans": [
-            "adj. 最大的；n. 最大值"
-        ]
+            "adj. as great or high as possible."
+        ],
+        "usphone": "/ˈmæksɪməm/",
+        "ukphone": "/ˈmæksɪməm/"
     },
     {
         "name": "lock you into",
         "trans": [
-            "把你锁定在...，限制你"
-        ]
+            "phr. to commit you to a particular course of action, preventing alternatives."
+        ],
+        "usphone": "/lɑːk juː ˈɪntu/",
+        "ukphone": "/lɒk juː ˈɪntu/"
     },
     {
         "name": "retains",
         "trans": [
-            "v. 保留，保持"
-        ]
+            "v. to continue to have or keep something."
+        ],
+        "usphone": "/rɪˈteɪnz/",
+        "ukphone": "/rɪˈteɪnz/"
     },
     {
         "name": "flexibility",
         "trans": [
-            "n. 灵活性"
-        ]
+            "n. the quality of being able to change or be adapted."
+        ],
+        "usphone": "/ˌfleksəˈbɪləti/",
+        "ukphone": "/ˌfleksəˈbɪləti/"
     },
     {
         "name": "complex",
         "trans": [
-            "adj. 复杂的"
-        ]
+            "adj. consisting of many different and connected parts."
+        ],
+        "usphone": "/kəmˈpleks/",
+        "ukphone": "/ˈkɒmpleks/"
     },
     {
         "name": "chaos",
         "trans": [
-            "n. 混乱"
-        ]
+            "n. complete disorder and confusion."
+        ],
+        "usphone": "/ˈkeɪɑːs/",
+        "ukphone": "/ˈkeɪɒs/"
     },
     {
         "name": "escape hatch",
         "trans": [
-            "n. 逃生舱口；（喻）应急方案，退出机制"
-        ]
+            "n. a means of escaping from a difficult situation."
+        ],
+        "usphone": "/ɪˈskeɪp hætʃ/",
+        "ukphone": "/ɪˈskeɪp hætʃ/"
     },
     {
         "name": "underlying",
         "trans": [
-            "adj. 底层的，根本的"
-        ]
+            "adj. fundamental; at the base of a system."
+        ],
+        "usphone": "/ˌʌndərˈlaɪɪŋ/",
+        "ukphone": "/ˌʌndəˈlaɪɪŋ/"
     },
     {
         "name": "drop down",
         "trans": [
-            "v. 下降，降低一个层次"
-        ]
+            "phr. to move to a lower level or position."
+        ],
+        "usphone": "/drɑːp daʊn/",
+        "ukphone": "/drɒp daʊn/"
     },
     {
         "name": "multiple",
         "trans": [
-            "adj. 多个的"
-        ]
+            "adj. having or involving several parts or elements."
+        ],
+        "usphone": "/ˈmʌltɪpl/",
+        "ukphone": "/ˈmʌltɪpl/"
     },
     {
         "name": "independent",
         "trans": [
-            "adj. 独立的"
-        ]
+            "adj. not connected with or influenced by another."
+        ],
+        "usphone": "/ˌɪndɪˈpendənt/",
+        "ukphone": "/ˌɪndɪˈpendənt/"
     },
     {
         "name": "separate",
         "trans": [
-            "adj. 分开的，独立的"
-        ]
+            "adj. forming a distinct unit; not joined to others."
+        ],
+        "usphone": "/ˈseprət/",
+        "ukphone": "/ˈsepərət/"
     },
     {
         "name": "simplicity",
         "trans": [
-            "n. 简单性"
-        ]
+            "n. the quality of being easy to understand or do."
+        ],
+        "usphone": "/sɪmˈplɪsəti/",
+        "ukphone": "/sɪmˈplɪsəti/"
     },
     {
         "name": "majority",
         "trans": [
-            "n. 大多数"
-        ]
+            "n. the greater number; most people."
+        ],
+        "usphone": "/məˈdʒɔːrəti/",
+        "ukphone": "/məˈdʒɒrəti/"
     },
     {
         "name": "casual",
         "trans": [
-            "adj. 随意的，非正式的"
-        ]
+            "adj. not requiring specialist knowledge or deep engagement."
+        ],
+        "usphone": "/ˈkæʒuəl/",
+        "ukphone": "/ˈkæʒuəl/"
     },
     {
         "name": "burdened",
         "trans": [
-            "adj. 负重的，受...拖累的"
-        ]
+            "v. loaded with something heavy (like complexity)."
+        ],
+        "usphone": "/ˈbɜːrdnd/",
+        "ukphone": "/ˈbɜːdnd/"
     },
     {
         "name": "advanced",
         "trans": [
-            "adj. 高级的"
-        ]
+            "adj. far on or ahead in development or progress."
+        ],
+        "usphone": "/ədˈvænst/",
+        "ukphone": "/ədˈvɑːnst/"
     },
     {
         "name": "restricted",
         "trans": [
-            "adj. 受限制的"
-        ]
+            "adj. limited in extent, action, or scope."
+        ],
+        "usphone": "/rɪˈstrɪktɪd/",
+        "ukphone": "/rɪˈstrɪktɪd/"
     },
     {
         "name": "pragmatic",
         "trans": [
-            "adj. 务实的，实用的"
-        ]
+            "adj. dealing with things sensibly and realistically."
+        ],
+        "usphone": "/præɡˈmætɪk/",
+        "ukphone": "/præɡˈmætɪk/"
     },
     {
         "name": "evolve",
         "trans": [
-            "v. 进化，发展"
-        ]
+            "v. to develop gradually from a simple to a more complex form."
+        ],
+        "usphone": "/ɪˈvɑːlv/",
+        "ukphone": "/ɪˈvɒlv/"
     },
     {
         "name": "arise",
         "trans": [
-            "v. 出现，产生"
-        ]
+            "v. to emerge or become apparent."
+        ],
+        "usphone": "/əˈraɪz/",
+        "ukphone": "/əˈraɪz/"
     },
     {
         "name": "leveraging",
         "trans": [
-            "v. 利用"
-        ]
+            "v. using something to maximum advantage."
+        ],
+        "usphone": "/ˈlevərɪdʒɪŋ/",
+        "ukphone": "/ˈliːvərɪdʒɪŋ/"
     },
     {
         "name": "capabilities",
         "trans": [
-            "n. 能力，功能"
-        ]
+            "n. the power or ability to do something."
+        ],
+        "usphone": "/ˌkeɪpəˈbɪlətiz/",
+        "ukphone": "/ˌkeɪpəˈbɪlətiz/"
     },
     {
         "name": "configuration",
         "trans": [
-            "n. 配置"
-        ]
+            "n. an arrangement of parts or elements in a particular form."
+        ],
+        "usphone": "/kənˌfɪɡjəˈreɪʃn/",
+        "ukphone": "/kənˌfɪɡəˈreɪʃn/"
     },
     {
         "name": "environment",
         "trans": [
-            "n. 环境"
-        ]
+            "n. the context within which a computer program or system operates."
+        ],
+        "usphone": "/ɪnˈvaɪrənmənt/",
+        "ukphone": "/ɪnˈvaɪrənmənt/"
     },
     {
         "name": "override",
         "trans": [
-            "v. 覆盖，重写"
-        ]
+            "v. to use one's authority to reject or cancel a decision."
+        ],
+        "usphone": "/ˌoʊvərˈraɪd/",
+        "ukphone": "/ˌəʊvəˈraɪd/"
     },
     {
         "name": "solution",
         "trans": [
-            "n. 解决方案"
-        ]
+            "n. a means of solving a problem."
+        ],
+        "usphone": "/səˈluːʃn/",
+        "ukphone": "/səˈluːʃn/"
     },
     {
         "name": "programmatically",
         "trans": [
-            "adv. 以编程方式"
-        ]
+            "adv. by means of a computer program."
+        ],
+        "usphone": "/ˌproʊɡrəˈmætɪkli/",
+        "ukphone": "/ˌprəʊɡrəˈmætɪkli/"
     },
     {
         "name": "generating",
         "trans": [
-            "v. 生成"
-        ]
+            "v. producing or creating something."
+        ],
+        "usphone": "/ˈdʒenəreɪtɪŋ/",
+        "ukphone": "/ˈdʒenəreɪtɪŋ/"
     },
     {
         "name": "documentation",
         "trans": [
-            "n. 文档"
-        ]
+            "n. material that provides official information or evidence."
+        ],
+        "usphone": "/ˌdɑːkjəmenˈteɪʃn/",
+        "ukphone": "/ˌdɒkjumenˈteɪʃn/"
     },
     {
         "name": "iterate",
         "trans": [
-            "v. 迭代，遍历"
-        ]
+            "v. to perform or utter repeatedly; go through a list."
+        ],
+        "usphone": "/ˈɪtəreɪt/",
+        "ukphone": "/ˈɪtəreɪt/"
     },
     {
         "name": "loops through",
         "trans": [
-            "v. 遍历"
-        ]
+            "phr. to go through a set of items one by one."
+        ],
+        "usphone": "/luːps θruː/",
+        "ukphone": "/luːps θruː/"
     },
     {
         "name": "complete",
         "trans": [
-            "adj. 完整的"
-        ]
+            "adj. having all the necessary or appropriate parts."
+        ],
+        "usphone": "/kəmˈpliːt/",
+        "ukphone": "/kəmˈpliːt/"
     },
     {
         "name": "template",
         "trans": [
-            "n. 模板"
-        ]
+            "n. a preset format used as a starting point."
+        ],
+        "usphone": "/ˈtemplət/",
+        "ukphone": "/ˈtemplət/"
     },
     {
         "name": "explicitly",
         "trans": [
-            "adv. 明确地"
-        ]
+            "adv. in a clear and detailed manner."
+        ],
+        "usphone": "/ɪkˈsplɪsɪtli/",
+        "ukphone": "/ɪkˈsplɪsɪtli/"
     },
     {
         "name": "addressed",
         "trans": [
-            "v. 解决，处理"
-        ]
+            "v. thought about and began to deal with an issue."
+        ],
+        "usphone": "/əˈdrest/",
+        "ukphone": "/əˈdrest/"
     },
     {
         "name": "inspect",
         "trans": [
-            "v. 检查，审查"
-        ]
+            "v. to look at something closely."
+        ],
+        "usphone": "/ɪnˈspekt/",
+        "ukphone": "/ɪnˈspekt/"
     },
     {
         "name": "mentioned",
         "trans": [
-            "v. 提到"
-        ]
+            "v. referred to something briefly."
+        ],
+        "usphone": "/ˈmenʃənd/",
+        "ukphone": "/ˈmenʃənd/"
     },
     {
         "name": "inspections",
         "trans": [
-            "n. 检查，审查"
-        ]
+            "n. careful examinations or observations."
+        ],
+        "usphone": "/ɪnˈspekʃnz/",
+        "ukphone": "/ɪnˈspekʃnz/"
     },
     {
         "name": "happens to",
         "trans": [
-            "碰巧"
-        ]
+            "phr. to be the case by chance."
+        ],
+        "usphone": "/ˈhæpənz tu/",
+        "ukphone": "/ˈhæpənz tu/"
     },
     {
         "name": "digits",
         "trans": [
-            "n. 数字"
-        ]
+            "n. the numerals from 0 to 9."
+        ],
+        "usphone": "/ˈdɪdʒɪts/",
+        "ukphone": "/ˈdɪdʒɪts/"
     },
     {
         "name": "string form",
         "trans": [
-            "n. 字符串形式"
-        ]
+            "n. the representation of something as text."
+        ],
+        "usphone": "/strɪŋ fɔːrm/",
+        "ukphone": "/strɪŋ fɔːm/"
     },
     {
         "name": "introduced",
         "trans": [
-            "v. 引入，介绍"
-        ]
+            "v. brought a new concept or feature into use."
+        ],
+        "usphone": "/ˌɪntrəˈduːst/",
+        "ukphone": "/ˌɪntrəˈdjuːst/"
     },
     {
         "name": "introspection",
         "trans": [
-            "n. 内省"
-        ]
+            "n. the examination of a system's own structure and state."
+        ],
+        "usphone": "/ˌɪntrəˈspekʃn/",
+        "ukphone": "/ˌɪntrəˈspekʃn/"
     },
     {
         "name": "across the board",
         "trans": [
-            "全面地，无一例外地"
-        ]
+            "phr. applying to all cases or categories."
+        ],
+        "usphone": "/əˈkrɔːs ðə bɔːrd/",
+        "ukphone": "/əˈkrɒs ðə bɔːd/"
     },
     {
         "name": "foundation",
         "trans": [
-            "n. 基础，地基"
-        ]
+            "n. an underlying basis or principle."
+        ],
+        "usphone": "/faʊnˈdeɪʃn/",
+        "ukphone": "/faʊnˈdeɪʃn/"
     },
     {
         "name": "auxiliary",
         "trans": [
-            "adj. 辅助的"
-        ]
+            "adj. providing supplementary or additional help and support."
+        ],
+        "usphone": "/ɔːɡˈzɪliəri/",
+        "ukphone": "/ɔːɡˈzɪliəri/"
     },
     {
         "name": "embodies",
         "trans": [
-            "v. 体现，包含"
-        ]
+            "v. to be an expression of or give a tangible form to an idea."
+        ],
+        "usphone": "/ɪmˈbɑːdiz/",
+        "ukphone": "/ɪmˈbɒdiz/"
     },
     {
         "name": "high level",
         "trans": [
-            "adj. 高层次的"
-        ]
+            "adj. of a general or abstract nature."
+        ],
+        "usphone": "/haɪ ˈlevl/",
+        "ukphone": "/haɪ ˈlevl/"
     },
     {
         "name": "principles",
         "trans": [
-            "n. 原则，原理"
-        ]
+            "n. fundamental truths or propositions that serve as the foundation for a system."
+        ],
+        "usphone": "/ˈprɪnsəplz/",
+        "ukphone": "/ˈprɪnsəplz/"
     },
     {
         "name": "takeaway",
         "trans": [
-            "n. 要点，关键信息"
-        ]
+            "n. a key fact, point, or idea to be remembered."
+        ],
+        "usphone": "/ˈteɪkəweɪ/",
+        "ukphone": "/ˈteɪkəweɪ/"
     },
     {
         "name": "necessarily",
         "trans": [
-            "adv. 必然地，必定"
-        ]
+            "adv. as a necessary result; inevitably."
+        ],
+        "usphone": "/ˌnesəˈserəli/",
+        "ukphone": "/ˌnesəˈserəli/"
     },
     {
         "name": "predicting",
         "trans": [
-            "v. 预测"
-        ]
+            "v. saying or estimating that a specified thing will happen in the future."
+        ],
+        "usphone": "/prɪˈdɪktɪŋ/",
+        "ukphone": "/prɪˈdɪktɪŋ/"
     },
     {
         "name": "future",
         "trans": [
-            "n. 未来"
-        ]
+            "n. the time or a period of time following the moment of speaking."
+        ],
+        "usphone": "/ˈfjuːtʃər/",
+        "ukphone": "/ˈfjuːtʃə(r)/"
     },
     {
         "name": "impossible",
         "trans": [
-            "adj. 不可能的"
-        ]
+            "adj. not able to occur, exist, or be done."
+        ],
+        "usphone": "/ɪmˈpɑːsəbl/",
+        "ukphone": "/ɪmˈpɒsəbl/"
     },
     {
         "name": "evolution",
         "trans": [
-            "n. 演变，进化"
-        ]
+            "n. the gradual development of something."
+        ],
+        "usphone": "/ˌevəˈluːʃn/",
+        "ukphone": "/ˌiːvəˈluːʃn/"
     },
     {
         "name": "extension",
         "trans": [
-            "n. 扩展"
-        ]
+            "n. a part that is added to something to enlarge it."
+        ],
+        "usphone": "/ɪkˈstenʃn/",
+        "ukphone": "/ɪkˈstenʃn/"
     },
     {
         "name": "later on",
         "trans": [
-            "后来，以后"
-        ]
+            "phr. at a future time."
+        ],
+        "usphone": "/ˈleɪtər ɑːn/",
+        "ukphone": "/ˈleɪtər ɒn/"
     },
     {
         "name": "specialized",
         "trans": [
-            "adj. 专门化的，专业的"
-        ]
+            "adj. requiring or involving detailed and specific knowledge."
+        ],
+        "usphone": "/ˈspeʃəlaɪzd/",
+        "ukphone": "/ˈspeʃəlaɪzd/"
     },
     {
         "name": "apply",
         "trans": [
-            "v. 应用，适用"
-        ]
+            "v. to be relevant or applicable to."
+        ],
+        "usphone": "/əˈplaɪ/",
+        "ukphone": "/əˈplaɪ/"
     },
     {
         "name": "perhaps",
         "trans": [
-            "adv. 也许，可能"
-        ]
+            "adv. possibly; maybe."
+        ],
+        "usphone": "/pərˈhæps/",
+        "ukphone": "/pəˈhæps/"
     },
     {
         "name": "validation",
         "trans": [
-            "n. 验证"
-        ]
+            "n. the action of checking the accuracy or quality of something."
+        ],
+        "usphone": "/ˌvælɪˈdeɪʃn/",
+        "ukphone": "/ˌvælɪˈdeɪʃn/"
     }
 ]

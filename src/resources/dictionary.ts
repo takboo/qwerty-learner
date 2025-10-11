@@ -579,6 +579,17 @@ const chinaExam: DictionaryResource[] = [
     language: 'en',
     languageCategory: 'en',
   },
+  {
+    id: 'deepDive',
+    name: '自制单词短语',
+    description: 'AI-文章转播客自制单词短语',
+    category: '中国考试',
+    tags: ['专业英语'],
+    url: '/dicts/DeepDive.json',
+    length: 268,
+    language: 'en',
+    languageCategory: 'en',
+  },
 ]
 
 // 国际考试

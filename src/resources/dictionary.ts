@@ -586,7 +586,7 @@ const chinaExam: DictionaryResource[] = [
     category: '中国考试',
     tags: ['专业英语'],
     url: '/dicts/DeepDive.json',
-    length: 268,
+    length: 261,
     language: 'en',
     languageCategory: 'en',
   },

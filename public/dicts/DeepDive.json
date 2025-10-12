@@ -96,12 +96,12 @@
         "ukphone": "/fəˈlɒsəfi/"
     },
     {
-        "name": "baked into",
+        "name": "bake into",
         "trans": [
             "phr. to be a fundamental and inseparable part of something."
         ],
-        "usphone": "/beɪkt ˈɪntu/",
-        "ukphone": "/beɪkt ˈɪntu/"
+        "usphone": "/beɪk ˈɪntu/",
+        "ukphone": "/beɪk ˈɪntu/"
     },
     {
         "name": "seemingly",
@@ -336,14 +336,6 @@
         "ukphone": "/rəʊˈbʌst/"
     },
     {
-        "name": "comes down",
-        "trans": [
-            "phr. to be summarized or simplified to a single point (usually with 'to')."
-        ],
-        "usphone": "/kʌmz daʊn/",
-        "ukphone": "/kʌmz daʊn/"
-    },
-    {
         "name": "avoiding",
         "trans": [
             "v. keeping away from or preventing from happening."
@@ -376,12 +368,12 @@
         "ukphone": "/kənˈfjuːʒn/"
     },
     {
-        "name": "pops up",
+        "name": "pop up",
         "trans": [
             "phr. to appear or happen unexpectedly."
         ],
-        "usphone": "/pɑːps ʌp/",
-        "ukphone": "/pɒps ʌp/"
+        "usphone": "/pɑːp ʌp/",
+        "ukphone": "/pɒp ʌp/"
     },
     {
         "name": "interact",
@@ -400,12 +392,12 @@
         "ukphone": "/ˌʌnprɪˈdɪktəbl/"
     },
     {
-        "name": "mess things up",
+        "name": "mess up",
         "trans": [
             "phr. to spoil or ruin something."
         ],
-        "usphone": "/mes θɪŋz ʌp/",
-        "ukphone": "/mes θɪŋz ʌp/"
+        "usphone": "/mes ʌp/",
+        "ukphone": "/mes ʌp/"
     },
     {
         "name": "imagine",
@@ -446,14 +438,6 @@
         ],
         "usphone": "/ˈæstərɪsk/",
         "ukphone": "/ˈæstərɪsk/"
-    },
-    {
-        "name": "sitting in that directory",
-        "trans": [
-            "phr. located or present within that specific folder."
-        ],
-        "usphone": "/ˈsɪtɪŋ ɪn ðæt dɪˈrektəri/",
-        "ukphone": "/ˈsɪtɪŋ ɪn ðæt dɪˈrektəri/"
     },
     {
         "name": "expands",
@@ -552,12 +536,12 @@
         "ukphone": "/ɪkˈsplɪsɪtnəs/"
     },
     {
-        "name": "makes so much sense",
+        "name": "make sense",
         "trans": [
             "phr. to be very logical and easy to understand."
         ],
-        "usphone": "/meɪks soʊ mʌtʃ sens/",
-        "ukphone": "/meɪks səʊ mʌtʃ sens/"
+        "usphone": "/meɪk sens/",
+        "ukphone": "/meɪk sens/"
     },
     {
         "name": "quirk",
@@ -632,14 +616,6 @@
         "ukphone": "/ɪnˈtɜːnl/"
     },
     {
-        "name": "code structure",
-        "trans": [
-            "n. the organization and layout of software code."
-        ],
-        "usphone": "/koʊd ˈstrʌktʃər/",
-        "ukphone": "/kəʊd ˈstrʌktʃə(r)/"
-    },
-    {
         "name": "careful",
         "trans": [
             "adj. done with thought and attention to detail."
@@ -670,14 +646,6 @@
         ],
         "usphone": "/ˈwɜːrkfloʊ/",
         "ukphone": "/ˈwɜːkfləʊ/"
-    },
-    {
-        "name": "pretty simple",
-        "trans": [
-            "phr. quite easy or uncomplicated."
-        ],
-        "usphone": "/ˈprɪti ˈsɪmpl/",
-        "ukphone": "/ˈprɪti ˈsɪmpl/"
     },
     {
         "name": "experiment",
@@ -944,12 +912,12 @@
         "ukphone": "/kənˈvɜːt/"
     },
     {
-        "name": "turn that string into",
+        "name": "turn into",
         "trans": [
             "phr. to transform a piece of text into another form."
         ],
-        "usphone": "/tɜːrn ðæt strɪŋ ˈɪntu/",
-        "ukphone": "/tɜːn ðæt strɪŋ ˈɪntu/"
+        "usphone": "/tɜːrn ˈɪntu/",
+        "ukphone": "/tɜːn ˈɪntu/"
     },
     {
         "name": "mostly",
@@ -958,14 +926,6 @@
         ],
         "usphone": "/ˈmoʊstli/",
         "ukphone": "/ˈməʊstli/"
-    },
-    {
-        "name": "gets way simpler",
-        "trans": [
-            "phr. becomes much less complicated."
-        ],
-        "usphone": "/ɡets weɪ ˈsɪmplər/",
-        "ukphone": "/ɡets weɪ ˈsɪmplə(r)/"
     },
     {
         "name": "massively",
@@ -1064,12 +1024,12 @@
         "ukphone": "/ˈsætɪsfaɪ/"
     },
     {
-        "name": "bridge that gap",
+        "name": "bridge gap",
         "trans": [
             "phr. to connect two things or reduce the difference between them."
         ],
-        "usphone": "/brɪdʒ ðæt ɡæp/",
-        "ukphone": "/brɪdʒ ðæt ɡæp/"
+        "usphone": "/brɪdʒ ɡæp/",
+        "ukphone": "/brɪdʒ ɡæp/"
     },
     {
         "name": "clever",
@@ -1254,14 +1214,6 @@
         ],
         "usphone": "/fəˈmɪliər/",
         "ukphone": "/fəˈmɪliə(r)/"
-    },
-    {
-        "name": "gets the job done perfectly",
-        "trans": [
-            "phr. to complete a task successfully and without any flaws."
-        ],
-        "usphone": "/ɡets ðə dʒɑːb dʌn ˈpɜːrfɪktli/",
-        "ukphone": "/ɡets ðə dʒɒb dʌn ˈpɜːfɪktli/"
     },
     {
         "name": "extensible",
@@ -1456,12 +1408,12 @@
         "ukphone": "/ˈnesəsəri/"
     },
     {
-        "name": "signaled by",
+        "name": "signale by",
         "trans": [
             "phr. indicated or shown by something."
         ],
-        "usphone": "/ˈsɪɡnəld baɪ/",
-        "ukphone": "/ˈsɪɡnəld baɪ/"
+        "usphone": "/ˈsɪɡnəl baɪ/",
+        "ukphone": "/ˈsɪɡnəl baɪ/"
     },
     {
         "name": "optional",
@@ -1654,14 +1606,6 @@
         ],
         "usphone": "/ˈmæksɪməm/",
         "ukphone": "/ˈmæksɪməm/"
-    },
-    {
-        "name": "lock you into",
-        "trans": [
-            "phr. to commit you to a particular course of action, preventing alternatives."
-        ],
-        "usphone": "/lɑːk juː ˈɪntu/",
-        "ukphone": "/lɒk juː ˈɪntu/"
     },
     {
         "name": "retains",

@@ -248,12 +248,12 @@
         "ukphone": "/ɪkˈspekt/"
     },
     {
-        "name": "treats",
+        "name": "treat",
         "trans": [
             "v. to handle or deal with something in a particular way."
         ],
-        "usphone": "/triːts/",
-        "ukphone": "/triːts/"
+        "usphone": "/triːt/",
+        "ukphone": "/triːt/"
     },
     {
         "name": "assign",
@@ -336,12 +336,12 @@
         "ukphone": "/rəʊˈbʌst/"
     },
     {
-        "name": "avoiding",
+        "name": "avoid",
         "trans": [
             "v. keeping away from or preventing from happening."
         ],
-        "usphone": "/əˈvɔɪdɪŋ/",
-        "ukphone": "/əˈvɔɪdɪŋ/"
+        "usphone": "/əˈvɔɪd/",
+        "ukphone": "/əˈvɔɪd/"
     },
     {
         "name": "ambiguity",
@@ -440,12 +440,12 @@
         "ukphone": "/ˈæstərɪsk/"
     },
     {
-        "name": "expands",
+        "name": "expand",
         "trans": [
             "v. to replace a symbol (like a wildcard) with the full data it represents."
         ],
-        "usphone": "/ɪkˈspændz/",
-        "ukphone": "/ɪkˈspændz/"
+        "usphone": "/ɪkˈspænd/",
+        "ukphone": "/ɪkˈspænd/"
     },
     {
         "name": "precisely",
@@ -480,12 +480,12 @@
         "ukphone": "/æmˈbɪɡjuəs/"
     },
     {
-        "name": "involved",
+        "name": "involve",
         "trans": [
             "adj. being part of or connected with something."
         ],
-        "usphone": "/ɪnˈvɑːlvd/",
-        "ukphone": "/ɪnˈvɒlvd/"
+        "usphone": "/ɪnˈvɑːlv/",
+        "ukphone": "/ɪnˈvɒlv/"
     },
     {
         "name": "completely",
@@ -512,20 +512,20 @@
         "ukphone": "/ˈsɜːtnti/"
     },
     {
-        "name": "designers",
+        "name": "designer",
         "trans": [
             "n. people who plan the form and structure of something."
         ],
-        "usphone": "/dɪˈzaɪnərz/",
-        "ukphone": "/dɪˈzaɪnəz/"
+        "usphone": "/dɪˈzaɪnər/",
+        "ukphone": "/dɪˈzaɪnə/"
     },
     {
-        "name": "implies",
+        "name": "implie",
         "trans": [
             "v. to suggest something without stating it directly."
         ],
-        "usphone": "/ɪmˈplaɪz/",
-        "ukphone": "/ɪmˈplaɪz/"
+        "usphone": "/ɪmˈplaɪ/",
+        "ukphone": "/ɪmˈplaɪ/"
     },
     {
         "name": "explicitness",
@@ -598,14 +598,6 @@
         ],
         "usphone": "/dɪˈfensɪv/",
         "ukphone": "/dɪˈfensɪv/"
-    },
-    {
-        "name": "quirks",
-        "trans": [
-            "n. peculiar aspects of something's behavior (plural)."
-        ],
-        "usphone": "/kwɜːrks/",
-        "ukphone": "/kwɜːks/"
     },
     {
         "name": "internal",
@@ -800,12 +792,12 @@
         "ukphone": "/ˈɡreɪsfəli/"
     },
     {
-        "name": "throws",
+        "name": "throw",
         "trans": [
             "v. to provide or present something to be dealt with."
         ],
-        "usphone": "/θroʊz/",
-        "ukphone": "/θrəʊz/"
+        "usphone": "/θroʊ/",
+        "ukphone": "/θrəʊ/"
     },
     {
         "name": "behavior",
@@ -840,12 +832,12 @@
         "ukphone": "/diːˈkʌplɪŋ/"
     },
     {
-        "name": "represents",
+        "name": "represent",
         "trans": [
             "v. to stand for or correspond to."
         ],
-        "usphone": "/ˌreprɪˈzents/",
-        "ukphone": "/ˌreprɪˈzents/"
+        "usphone": "/ˌreprɪˈzent/",
+        "ukphone": "/ˌreprɪˈzent/"
     },
     {
         "name": "concrete",
@@ -856,12 +848,12 @@
         "ukphone": "/ˈkɒŋkriːt/"
     },
     {
-        "name": "satisfies",
+        "name": "satisfy",
         "trans": [
             "v. to meet the requirements or conditions of something."
         ],
-        "usphone": "/ˈsætɪsfaɪz/",
-        "ukphone": "/ˈsætɪsfaɪz/"
+        "usphone": "/ˈsæt̬.ɪs.faɪ/",
+        "ukphone": "/ˈsæt.ɪs.faɪ/"
     },
     {
         "name": "contract",
@@ -936,20 +928,20 @@
         "ukphone": "/ˈmæsɪvli/"
     },
     {
-        "name": "associated",
+        "name": "associate",
         "trans": [
             "adj. connected with something else."
         ],
-        "usphone": "/əˈsoʊʃieɪtɪd/",
-        "ukphone": "/əˈsəʊʃieɪtɪd/"
+        "usphone": "/əˈsoʊʃieɪtɪ/",
+        "ukphone": "/əˈsəʊʃieɪtɪ/"
     },
     {
-        "name": "delegates",
+        "name": "delegate",
         "trans": [
             "v. to entrust a task or responsibility to another."
         ],
-        "usphone": "/ˈdeləɡeɪts/",
-        "ukphone": "/ˈdelɪɡeɪts/"
+        "usphone": "/ˈdeləɡeɪt/",
+        "ukphone": "/ˈdelɪɡeɪt/"
     },
     {
         "name": "conversion",
@@ -984,12 +976,12 @@
         "ukphone": "/ˈfreɪmwɜːk/"
     },
     {
-        "name": "decoupled",
+        "name": "decouple",
         "trans": [
             "adj. separated from something else so they can exist independently."
         ],
-        "usphone": "/diːˈkʌpld/",
-        "ukphone": "/diːˈkʌpld/"
+        "usphone": "/diːˈkʌpl/",
+        "ukphone": "/diːˈkʌpl/"
     },
     {
         "name": "regular",

@@ -1008,20 +1008,12 @@
         "ukphone": "/ˌɔːtəˈmætɪkli/"
     },
     {
-        "name": "satisfy",
-        "trans": [
-            "v. to meet the requirements or conditions of."
-        ],
-        "usphone": "/ˈsætɪsfaɪ/",
-        "ukphone": "/ˈsætɪsfaɪ/"
-    },
-    {
-        "name": "bridge gap",
+        "name": "bridge the gap",
         "trans": [
             "phr. to connect two things or reduce the difference between them."
         ],
-        "usphone": "/brɪdʒ ɡæp/",
-        "ukphone": "/brɪdʒ ɡæp/"
+        "usphone": "/brɪdʒ ðə ɡæp/",
+        "ukphone": "/brɪdʒ ðə ɡæp/"
     },
     {
         "name": "clever",
@@ -1064,12 +1056,12 @@
         "ukphone": "/maɪt bi/"
     },
     {
-        "name": "required",
+        "name": "require",
         "trans": [
             "adj. necessary according to rules or for a purpose."
         ],
-        "usphone": "/rɪˈkwaɪərd/",
-        "ukphone": "/rɪˈkwaɪəd/"
+        "usphone": "/rɪˈkwaɪər/",
+        "ukphone": "/rɪˈkwaɪə/"
     },
     {
         "name": "helper",
@@ -1080,12 +1072,12 @@
         "ukphone": "/ˈhelpə(r)/"
     },
     {
-        "name": "reinterprets",
+        "name": "reinterpret",
         "trans": [
             "v. to understand or explain something in a new way."
         ],
-        "usphone": "/ˌriːɪnˈtɜːrprɪts/",
-        "ukphone": "/ˌriːɪnˈtɜːprɪts/"
+        "usphone": "/ˌriːɪnˈtɜːrprət/",
+        "ukphone": "/ˌriːɪnˈtɜːprət/"
     },
     {
         "name": "memory layout",
@@ -1094,14 +1086,6 @@
         ],
         "usphone": "/ˈmeməri ˈleɪaʊt/",
         "ukphone": "/ˈmeməri ˈleɪaʊt/"
-    },
-    {
-        "name": "guaranteed",
-        "trans": [
-            "adj. certain to be or happen."
-        ],
-        "usphone": "/ˌɡærənˈtiːd/",
-        "ukphone": "/ˌɡærənˈtiːd/"
     },
     {
         "name": "compatible",
@@ -1120,28 +1104,12 @@
         "ukphone": "/ˈɒkjupaɪ/"
     },
     {
-        "name": "beginning",
-        "trans": [
-            "n. the first part or point of something."
-        ],
-        "usphone": "/bɪˈɡɪnɪŋ/",
-        "ukphone": "/bɪˈɡɪnɪŋ/"
-    },
-    {
-        "name": "essentially",
-        "trans": [
-            "adv. used to emphasize the basic nature of something."
-        ],
-        "usphone": "/ɪˈsenʃəli/",
-        "ukphone": "/ɪˈsenʃəli/"
-    },
-    {
-        "name": "allocated",
+        "name": "allocate",
         "trans": [
             "v. to have set apart memory for a specific purpose."
         ],
-        "usphone": "/ˈæləkeɪtɪd/",
-        "ukphone": "/ˈæləkeɪtɪd/"
+        "usphone": "/ˈæləkeɪt/",
+        "ukphone": "/ˈæləkeɪt/"
     },
     {
         "name": "lens",
@@ -1168,19 +1136,19 @@
         "ukphone": "/əˈrɪdʒənl/"
     },
     {
-        "name": "operates",
+        "name": "operate",
         "trans": [
             "v. to function or work in a particular way."
         ],
-        "usphone": "/ˈɑːpəreɪts/",
-        "ukphone": "/ˈɒpəreɪts/"
+        "usphone": "/ˈɑːpəreɪt/",
+        "ukphone": "/ˈɒpəreɪt/"
     },
     {
         "name": "zero cost abstraction",
         "trans": [
             "n. an abstraction that has no runtime performance penalty."
         ],
-        "usphone": "/ˈzɪroʊ kɔːst æbˈstrækʃn/",
+        "usphone": "/ˈzɪrəʊ kɔːst æbˈstrækʃn/",
         "ukphone": "/ˈzɪərəʊ kɒst æbˈstrækʃn/"
     },
     {

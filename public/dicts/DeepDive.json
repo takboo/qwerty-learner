@@ -1320,12 +1320,12 @@
         "ukphone": "/aɪˈdentəti/"
     },
     {
-        "name": "performs",
+        "name": "perform",
         "trans": [
             "v. to carry out or execute a task."
         ],
-        "usphone": "/pərˈfɔːrmz/",
-        "ukphone": "/pəˈfɔːmz/"
+        "usphone": "/pərˈfɔːrm/",
+        "ukphone": "/pəˈfɔːm/"
     },
     {
         "name": "type assertion",
@@ -1336,28 +1336,28 @@
         "ukphone": "/taɪp əˈsɜːʃn/"
     },
     {
-        "name": "succeeds",
+        "name": "succeed",
         "trans": [
             "v. to achieve the desired aim or result."
         ],
-        "usphone": "/səkˈsiːdz/",
-        "ukphone": "/səkˈsiːdz/"
+        "usphone": "/səkˈsiːd/",
+        "ukphone": "/səkˈsiːd/"
     },
     {
-        "name": "contained",
+        "name": "containe",
         "trans": [
             "adj. kept within certain limits; controlled."
         ],
-        "usphone": "/kənˈteɪnd/",
-        "ukphone": "/kənˈteɪnd/"
+        "usphone": "/kənˈteɪn/",
+        "ukphone": "/kənˈteɪn/"
     },
     {
-        "name": "invoked",
+        "name": "invoke",
         "trans": [
             "v. to call on or put into effect."
         ],
-        "usphone": "/ɪnˈvoʊkt/",
-        "ukphone": "/ɪnˈvəʊkt/"
+        "usphone": "/ɪnˈvoʊk/",
+        "ukphone": "/ɪnˈvəʊk/"
     },
     {
         "name": "necessary",
@@ -1368,7 +1368,7 @@
         "ukphone": "/ˈnesəsəri/"
     },
     {
-        "name": "signale by",
+        "name": "signal by",
         "trans": [
             "phr. indicated or shown by something."
         ],
@@ -1408,12 +1408,12 @@
         "ukphone": "/ˈekstrə/"
     },
     {
-        "name": "remains",
+        "name": "remain",
         "trans": [
             "v. to continue to exist in the same state."
         ],
-        "usphone": "/rɪˈmeɪnz/",
-        "ukphone": "/rɪˈmeɪnz/"
+        "usphone": "/rɪˈmeɪn/",
+        "ukphone": "/rɪˈmeɪn/"
     },
     {
         "name": "general",
@@ -1440,12 +1440,12 @@
         "ukphone": "/ˈsuːpə ˈkɒmən/"
     },
     {
-        "name": "channels",
+        "name": "channel",
         "trans": [
             "n. methods or routes for communication or access."
         ],
-        "usphone": "/ˈtʃænlz/",
-        "ukphone": "/ˈtʃænlz/"
+        "usphone": "/ˈtʃænl/",
+        "ukphone": "/ˈtʃænl/"
     },
     {
         "name": "maintain",

@@ -1456,12 +1456,12 @@
         "ukphone": "/meɪnˈteɪn/"
     },
     {
-        "name": "exceptions",
+        "name": "exception",
         "trans": [
             "n. cases that do not conform to a general rule."
         ],
-        "usphone": "/ɪkˈsepʃnz/",
-        "ukphone": "/ɪkˈsepʃnz/"
+        "usphone": "/ɪkˈsepʃn/",
+        "ukphone": "/ɪkˈsepʃn/"
     },
     {
         "name": "composition",
@@ -1504,20 +1504,20 @@
         "ukphone": "/ˈjuːʒuəli/"
     },
     {
-        "name": "dissecting",
+        "name": "dissect",
         "trans": [
             "v. analyzing something in minute detail."
         ],
-        "usphone": "/daɪˈsektɪŋ/",
-        "ukphone": "/daɪˈsektɪŋ/"
+        "usphone": "/daɪˈsekt/",
+        "ukphone": "/daɪˈsekt/"
     },
     {
-        "name": "hiding",
+        "name": "hide",
         "trans": [
             "v. being out of sight or concealed."
         ],
-        "usphone": "/ˈhaɪdɪŋ/",
-        "ukphone": "/ˈhaɪdɪŋ/"
+        "usphone": "/ˈhaɪd/",
+        "ukphone": "/ˈhaɪd/"
     },
     {
         "name": "singleton",
@@ -1552,12 +1552,12 @@
         "ukphone": "/ˈɡləʊbəli/"
     },
     {
-        "name": "layering",
+        "name": "layer",
         "trans": [
             "n. the arrangement of something in layers or levels."
         ],
-        "usphone": "/ˈleɪərɪŋ/",
-        "ukphone": "/ˈleɪərɪŋ/"
+        "usphone": "/ˈleɪə(r)/",
+        "ukphone": "/ˈleɪər/"
     },
     {
         "name": "maximum",
@@ -1568,12 +1568,12 @@
         "ukphone": "/ˈmæksɪməm/"
     },
     {
-        "name": "retains",
+        "name": "retain",
         "trans": [
             "v. to continue to have or keep something."
         ],
-        "usphone": "/rɪˈteɪnz/",
-        "ukphone": "/rɪˈteɪnz/"
+        "usphone": "/rɪˈteɪn/",
+        "ukphone": "/rɪˈteɪn/"
     },
     {
         "name": "flexibility",
